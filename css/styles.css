@@ -1,0 +1,229 @@
+/**************tag-editor**************/
+
+.big-heading {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3.5rem;
+  line-height: 1.5;
+  margin: 0 0 10% 0;
+}
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+.colored-section {
+  background-color: #F9795A;
+}
+.uncolored-section {
+  background-color: white;
+}
+
+.color-white {
+  color: white;
+}
+
+body {
+  text-align: center;
+}
+
+h1,h2,h3,h4,h5,p {
+  font-family: 'Montserrat';
+}
+
+/**************nav-bar**************/
+
+.navbar-brand {
+  font-family: 'Ubuntu';
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.logo {
+  margin-bottom: 2%;
+}
+
+.navi {
+  padding: 2% 5%;
+}
+/********************home*********************/
+
+.title {
+  background-color: #ECEBFC;
+  text-align: left;
+}
+
+.title-padding {
+  padding: 3% 15% 8%;
+}
+
+.stock {
+  margin: 15% auto 10% auto;
+  width: 28rem;
+}
+
+/********************features*********************/
+
+
+.features-heading {
+  font-size: 2rem;
+}
+
+.features-detail {
+  color: #8f8f8f;
+  font-size: 0.8rem;
+}
+
+.features-block {
+  padding: 0 5% 0 5%;
+  margin: 2% 0 2% 0;
+}
+
+.features-icon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+  color: #F9795A;
+}
+
+/********************carousel*********************/
+
+.tom {
+  width: 7rem;
+  border-radius: 100%;
+  margin: 5% 5% 0 5%;
+}
+
+.shalli {
+  width: 7rem;
+  border-radius: 100%;
+  margin: 5% 5% 0 5%;
+}
+
+.carousel-item {
+  padding: 10%;
+}
+
+/********************Pricing*********************/
+
+.pricing-header {
+  font-size: 3rem;
+  color: #F9795A;
+}
+
+.price-head {
+  margin-bottom: 5%;
+}
+
+.pricing-detail {
+  color: #8f8f8f;
+}
+
+.expensive-price {
+  background-color: #F9795A;
+}
+
+.sm-md-price-title {
+  color: #F9795A;
+}
+
+.price-btn {
+  width: 100%;
+  color: #F9795A;
+  font-family: 'Montserrat';
+}
+
+.price-btn:hover {
+  color: white;
+  background-color: #F9795A;
+}
+
+.price{
+  color: #F9795A;
+}
+
+/********************founder*********************/
+
+.founder-btn {
+  background-color: white;
+  color: #F9795A;
+}
+
+.founder-btn:hover {
+  background-color: #F9795A;
+  color: white;
+}
+
+.founder-img {
+  width: 50%;
+  border-radius: 100%;
+  margin: 0 auto 0;
+}
+
+.founder-title {
+  font-size: 2rem;
+  margin-bottom: 0;
+}
+
+.founder-hi {
+  font-size: 2rem;
+}
+
+.founder-detail {
+  font-size: 1rem;
+  line-height: 2;
+}
+
+.m-btn {
+  margin-bottom: 3%;
+}
+
+/********************footer*********************/
+
+.f-icon {
+  font-size: 1rem;
+  margin: 0.7rem;
+  text-decoration: none;
+  color: black;
+}
+
+.f-icon:hover {
+  font-size: 1.2rem;
+  transition: 0.5s;
+  color: #F9795A;
+}
+
+.Copyright {
+  font-family: sans-serif;
+}
+
+/********************MEDIA********************/
+
+@media (max-width: 1088px) {
+  .big-heading {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width:991.33px) {
+  .big-heading {
+    margin: 8%;
+  }
+
+  .container {
+    padding-bottom: 5%;
+  }
+
+  .title-row {
+    text-align: center;
+  }
+
+  .founder-img {
+    width: 25%;
+    margin-top: 8%;
+  }
+}
+
+/***************tag-editor**************/
+
+#footer {
+  padding: 7%;
+}
